@@ -1,7 +1,7 @@
 # SDET API Integration Testing 
 
 ## Project Summary:
-dMoney is a demo money transaction system where user can send money, cashin money, cashout payment and more. here I have created more integration where dMoney admin can create some role like Customer, Agent and Merchant. Here I have added some test cases for user manipulation. I have also analysed some bug and improvement based on the testing.
+dMoney is a demo money transaction system where user can send money, cashin money, cashout payment and more. here I have created more integration where dMoney admin can create some role like Customer, Agent and Merchant. Here I have added some test cases for user manipulation.
 
 
 ## Technology:
